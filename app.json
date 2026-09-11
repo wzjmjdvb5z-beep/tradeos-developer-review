@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "TradeOS Review",
+    "slug": "tradeos-developer-review",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "ios": {
+      "bundleIdentifier": "uk.tradeos.review"
+    },
+    "android": {
+      "package": "uk.tradeos.review"
+    },
+    "plugins": ["expo-secure-store"]
+  }
+}
